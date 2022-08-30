@@ -28,8 +28,11 @@ Since time and storage space were limited, work has been done on Id numbers betw
 
 
 ### Identifying the Most Important Stores (small businesses)
-
 ![image](https://user-images.githubusercontent.com/30194032/187533756-fd722100-c178-4a9c-a5fc-22a238d59050.png)
+
+
+### Extracting BusinessesDON'T have Websites and Which Category They Belong To
+![image](https://user-images.githubusercontent.com/30194032/187533993-182867e4-05bf-4081-8b49-8e7c48335fa1.png)
 
 
 
