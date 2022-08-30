@@ -18,3 +18,7 @@ Since time and storage space were limited, work has been done on Id numbers betw
 
 ![image](https://user-images.githubusercontent.com/30194032/187531725-4ba83933-7b03-4e7f-9eb5-7c41b8b6e589.png)
 
+#### Sample Data 
+![image](https://user-images.githubusercontent.com/30194032/187532502-1352b5aa-cfd5-4250-8c0f-096d5d65f6d4.png)
+
+
