@@ -8,3 +8,6 @@ Maroof is a national platform that contains Saudi stores data, which means that 
 
 #### Data Elements That Extracted from Maroof 
 ![image](https://user-images.githubusercontent.com/30194032/187530156-ed6a8530-925d-4c7c-ad75-cc71767edf83.png)
+
+![image](https://user-images.githubusercontent.com/30194032/187530338-a46f7176-4d27-4074-8096-b87fca2b7d3f.png)
+
