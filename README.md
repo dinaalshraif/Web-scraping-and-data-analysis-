@@ -27,4 +27,9 @@ Since time and storage space were limited, work has been done on Id numbers betw
 ![image](https://user-images.githubusercontent.com/30194032/187532993-c75b9657-9b8a-4c3d-a2d2-18639ef9b0ac.png)
 
 
+### Identifying the Most Important Stores (small businesses)
+
+![image](https://user-images.githubusercontent.com/30194032/187533756-fd722100-c178-4a9c-a5fc-22a238d59050.png)
+
+
 
