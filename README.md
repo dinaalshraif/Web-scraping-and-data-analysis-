@@ -21,4 +21,10 @@ Since time and storage space were limited, work has been done on Id numbers betw
 ### Sample Data 
 ![image](https://user-images.githubusercontent.com/30194032/187532502-1352b5aa-cfd5-4250-8c0f-096d5d65f6d4.png)
 
+### Data Quality Assessment
+![image](https://user-images.githubusercontent.com/30194032/187532814-d529718f-7855-4849-a0b3-b0d8b91ac6a8.png)
+
+![image](https://user-images.githubusercontent.com/30194032/187532993-c75b9657-9b8a-4c3d-a2d2-18639ef9b0ac.png)
+
+
 
