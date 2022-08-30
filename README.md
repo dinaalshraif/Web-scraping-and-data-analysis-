@@ -31,8 +31,11 @@ Since time and storage space were limited, work has been done on Id numbers betw
 ![image](https://user-images.githubusercontent.com/30194032/187533756-fd722100-c178-4a9c-a5fc-22a238d59050.png)
 
 
-### Extracting BusinessesDON'T have Websites and Which Category They Belong To
+### Extracting Emails of Businesses DON'T have Websites and Which Category They Belong To
 ![image](https://user-images.githubusercontent.com/30194032/187533993-182867e4-05bf-4081-8b49-8e7c48335fa1.png)
 
 
+### Extracting Emails of Businesses Have Websites but Have Few Customers/Raters. 
+
+![image](https://user-images.githubusercontent.com/30194032/187534568-ddccbf7b-af9f-42e4-93bd-bc6aef457de0.png)
 
